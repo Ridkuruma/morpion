@@ -11,7 +11,7 @@ Source: <a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal"
 Ouvrez votre Terminal et déplacez-vous dans le dossier où vous souhaitez installer le jeu.
 Entrez les commandes suivantes :
 ```
-git clone METTRE LIEN CLONE
+git clone https://github.com/Ridkuruma/morpion.git
 cd morpion
 bundle install
 ```
